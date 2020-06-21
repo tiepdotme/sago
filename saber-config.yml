@@ -1,0 +1,50 @@
+theme: ./src
+
+siteConfig:
+  title: Sago
+  url: https://gaac.me
+  author: Phạm Xuân Tiếp
+  email: Sago@gaac.me
+  phone: +84 (033) 703-6819
+  description: tiếp bán tài khoản google adsense, gg adsense và ghi lại tả pí lù cuộc đời giúp bản thân trưởng thành hơn
+  keywords: adsense acc, tài khoản gg adsense, mua bán adsense, tài khoản mgid, account mgid, mua bán mgid
+  social:
+    twitter: phusame
+    github: phusame
+
+themeConfig:
+  nav:
+    - text: projects
+      link: /projects
+    - text: writing
+      link: /writing
+    - text: newsletter
+      link: /the-littoral-line
+    - text: about
+      link: /about
+    - text: mgid
+      link: /mgid
+  social:
+    rss: true
+  lang: en
+
+permalinks:
+  post: /blog/:slug
+  page: /:slug
+
+plugins:
+  - resolve: saber-plugin-query-posts
+  - resolve: saber-plugin-feed
+    options:
+      atomFeed: true
+  - resolve: saber-plugin-critical
+  - resolve: saber-plugin-google-analytics
+    options:
+      trackId: "UA-165841586-1"
+  - resolve: saber-plugin-sitemap
+  # - resolve: saber-plugin-netlify-redirect
+
+markdown:
+  plugins:
+    - resolve: markdown-it-attrs
+    - resolve: markdown-it-sup
