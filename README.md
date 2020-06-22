@@ -1,7 +1,7 @@
 # Sago
 
 Phù sa mẹ Agency Advertising
-Value proposition, portfolio and writing website: https://gaac.me/
+Value proposition, portfolio and writing website: https://sagoad.com/
 
 ### Heads up!
 

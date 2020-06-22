@@ -43,7 +43,7 @@
           </template>
           <template v-if="$route.path === '/'"> 
             <saber-link to="https://phusame.myshopify.com" class="Link text-brand-red">
-    <img src="https://gaac.me/images/shop_link.png" alt="Shop của Sago" />
+    <img src="https://sagoad.com/images/shop_link.png" alt="Shop của Sago" />
   </saber-link>
           </template>
         </p>
