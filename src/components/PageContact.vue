@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="Heading Heading-4xl font-medium">Sago Agency</h2>
+    <h2 class="Heading Heading-4xl font-medium">Trần Thị Thùy Linh</h2>
     <p class="Space-t mb-2px">{{ about }}</p>
     <p class="Text Link mb-2px">
       <a :href="`mailto:${contact.email}`">
@@ -25,7 +25,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Made with ❤️ by <a href="https://www.facebook.com/profile.php?id=Sagowork"><strong>Fb.com/phusa</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng nội dung cá nhân, và kinh nghiệm mà Sago đã trải qua và mong muốn hướng dẫn lại đóng góp cho cuộc đời, cho đi để được nhận lại. <br /><strong>Sago</strong> là thương hiệu sở hữu của Tiếp.
+      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Made with ❤️ by <a href="https://www.facebook.com/thuylinhns/"><strong>Fb.com/thylinhns</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng nội dung cá nhân, và kinh nghiệm mà Thùy Linh đã trải qua và mong muốn hướng dẫn lại đóng góp cho cuộc đời, cho đi để được nhận lại. <br /><strong>Thùy Linh</strong> là thương hiệu sở hữu của Tiếp.
     </p>
   </div>
 </template>
@@ -42,7 +42,7 @@ export default {
     about: "Để liên lạc với Tiếp nhanh chóng hãy gọi điện thoại:",
     signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
-      email: "Sago@sagoad.com",
+      email: "tiep@cytimy.com",
       phone: "(033) 703-6819",
     },
   }),
