@@ -12,7 +12,7 @@ injectAllPosts: true
 # title: Beautiful hypertext products.
 # title: Designed in hypertext.
 title: Trần Thị Thùy Linh.
-pageTitle: bán tài khoản adsense
+pageTitle: Linh Creative
 # pageClass: red
 pageClass: bg-brand-neutral
 # lede: Callum Flack designs and develops interfaces that make the complex simple and the simple unique. They work in a glance, creating the most valued currency—attention. Then they work to provide service with trust and speed. CFd builds "remark"-ability through a rare combination of comprehension, creativity + capability.
