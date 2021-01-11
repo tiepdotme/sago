@@ -4,6 +4,7 @@
     <header>
       <HeaderTitleWrap>
         <h1 class="Display s-h">404 page not found</h1>
+        <center><img src="https://github.com/Van-may/img/raw/main/thuylinh_error.png" /></center>
         <p class="Link Text-sm text-gray s-2h">
           Sorry, I couldn't find the page you were after. Instead, here's a randomly
           generated insight about good interface design:
