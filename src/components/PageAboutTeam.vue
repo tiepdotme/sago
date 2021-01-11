@@ -25,7 +25,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              Sago trên Linkedin
+              Linh trên Linkedin
             </a>
           </li>
           <li>
@@ -34,7 +34,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tiếp trên Facebook
+              Thùy Linh trên Facebook
             </a>
           </li>
         </ul>
@@ -60,7 +60,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tôi trên Facebook
+              Linh trên Facebook
             </a>
           </li>
           <li>
@@ -69,7 +69,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tôi trên Telegram
+              Linh trên Telegram
             </a>
           </li>
         </ul>
@@ -87,7 +87,7 @@ export default {
   },
   data: () => ({
     tiep: {
-      name: "Sago Tiếp",
+      name: "Thùy Linh",
       title: "Sáng lập,  Bán hàng, tạo tài khoản, bảo hành",
       portrait: "/images/tiep_2020.png",
       lede:
