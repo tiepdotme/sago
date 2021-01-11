@@ -30,17 +30,6 @@
         ></PageTitleMeta>
         <p v-if="page.lede" class="Text-xl Block-xs-t" :class="textInvertStyle">
           {{ page.lede }}
-          <template v-if="$route.path === '/'">
-            <saber-link to="/about" class="Link text-brand-red">
-              Mua ngay &#8594;
-            </saber-link>
-            <br /><br />
-          </template> 
-          <template v-if="$route.path === '/'">Có phải bạn tìm mua mgid không? xem 
-            <saber-link to="/mgid" class="Link text-brand-red">
-              báo giá account mgid &#8594;
-            </saber-link>
-          </template>
           <template v-if="$route.path === '/'"> 
             <saber-link to="https://cytimy.com" class="Link text-brand-red">
     <img src="https://github.com/Van-may/img/raw/main/thuylinh_error.png" alt="Shop của Sago" />
