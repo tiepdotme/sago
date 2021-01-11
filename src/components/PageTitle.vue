@@ -42,8 +42,8 @@
             </saber-link>
           </template>
           <template v-if="$route.path === '/'"> 
-            <saber-link to="https://phusame.myshopify.com" class="Link text-brand-red">
-    <img src="https://sagoad.com/images/shop_link.png" alt="Shop của Sago" />
+            <saber-link to="https://cytimy.com" class="Link text-brand-red">
+    <img src="https://github.com/Van-may/img/raw/main/thuylinh_error.png" alt="Shop của Sago" />
   </saber-link>
           </template>
         </p>
