@@ -25,7 +25,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Made with ❤️ by <a href="https://www.facebook.com/thuylinhns/"><strong>Fb.com/thylinhns</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng nội dung cá nhân, và kinh nghiệm mà Thùy Linh đã trải qua và mong muốn hướng dẫn lại đóng góp cho cuộc đời, cho đi để được nhận lại. <br /><strong>Thùy Linh</strong> là thương hiệu sở hữu của Tiếp.
+      © Linh adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Made with ❤️ by <a href="https://www.facebook.com/thuylinhns/"><strong>Fb.com/thylinhns</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng nội dung cá nhân, và kinh nghiệm mà Thùy Linh đã trải qua và mong muốn hướng dẫn lại đóng góp cho cuộc đời, cho đi để được nhận lại. <br /><strong>Thùy Linh</strong> là thương hiệu sở hữu của Tiếp.
     </p>
   </div>
 </template>
@@ -39,7 +39,7 @@ export default {
   },
   props: {},
   data: () => ({
-    about: "Để liên lạc với Tiếp nhanh chóng hãy gọi điện thoại:",
+    about: "Để liên lạc với Linh nhanh chóng hãy gọi điện thoại:",
     signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
       email: "tiep@cytimy.com",
