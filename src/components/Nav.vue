@@ -4,7 +4,7 @@
       <div class="container container--text relative">
         <saber-link to="/" exact class="Nav-logo Nav-link Meta">
           <span style="text-transform:initial">
-            Sago
+            Thùy Linh
           </span>
         </saber-link>
         <saber-link
