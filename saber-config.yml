@@ -14,15 +14,15 @@ siteConfig:
 
 themeConfig:
   nav:
-    - text: projects
+    - text: Tin giáo dục
       link: /projects
-    - text: writing
+    - text: Tuyển sinh
       link: /writing
-    - text: newsletter
+    - text: Hướng nghiệp
       link: /the-littoral-line
-    - text: about
+    - text: Thư viện nghề
       link: /about
-    - text: mgid
+    - text: Công nghệ
       link: /mgid
   social:
     rss: true
