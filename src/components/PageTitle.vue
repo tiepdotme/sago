@@ -1,5 +1,43 @@
 <template>
   <header class="relative">
+  
+  
+  
+            <nav class="second-nav" id="menusite">
+    <div class="container">
+        <div class="row">
+            <div class="bg box-shadow">
+            <div class="navbar navbar-default navbar-static-top" role="navigation">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-site-default">
+    <span class="sr-only">&nbsp;</span> <span class="icon-bar">&nbsp;</span> <span class="icon-bar">&nbsp;</span> <span class="icon-bar">&nbsp;</span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="menu-site-default">
+<ul class="nav navbar-nav">
+    <li><a class="home" href="/" title="Trang nhất"><em class="fa fa-lg fa-home">&nbsp;</em><span class="visible-xs-inline-block"> Trang nhất</span></a></li>
+                <li rol="presentation"><a class="dropdown-toggle" href="/tin-giao-duc/" role="button" aria-expanded="false" title="TIN GIÁO DỤC">  TIN GIÁO DỤC</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/tuyen-sinh/" role="button" aria-expanded="false" title="TUYỂN SINH">  TUYỂN SINH</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/huong-nghiep/" role="button" aria-expanded="false" title="HƯỚNG NGHIỆP">  HƯỚNG NGHIỆP</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/thu-vien-nghe/" role="button" aria-expanded="false" title="THƯ VIỆN NGHỀ">  THƯ VIỆN NGHỀ</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/cong-nghe/" role="button" aria-expanded="false" title="CÔNG NGHỆ">  CÔNG NGHỆ</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/giai-tri/" role="button" aria-expanded="false" title="GIẢI TRÍ">  GIẢI TRÍ</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/goc-chia-se/" role="button" aria-expanded="false" title="GÓC CHIA SẺ">  GÓC CHIA SẺ</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/thoi-su/" role="button" aria-expanded="false" title="SỨC KHỎE">  SỨC KHỎE</a> </li>
+    <li rol="presentation"><a class="dropdown-toggle" href="/truong-hoc/" role="button" aria-expanded="false" title="TRƯỜNG HỌC">  TRƯỜNG HỌC</a> </li>
+</ul>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+
+
+
+
     <!-- hero image slot -->
     <slot name="image"></slot>
     <!-- title block -->
@@ -32,35 +70,7 @@
           {{ page.lede }}
           
           
-          <nav class="second-nav" id="menusite">
-    <div class="container">
-        <div class="row">
-            <div class="bg box-shadow">
-            <div class="navbar navbar-default navbar-static-top" role="navigation">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu-site-default">
-    <span class="sr-only">&nbsp;</span> <span class="icon-bar">&nbsp;</span> <span class="icon-bar">&nbsp;</span> <span class="icon-bar">&nbsp;</span>
-</button>
-</div>
-<div class="collapse navbar-collapse" id="menu-site-default">
-<ul class="nav navbar-nav">
-    <li><a class="home" href="/" title="Trang nhất"><em class="fa fa-lg fa-home">&nbsp;</em><span class="visible-xs-inline-block"> Trang nhất</span></a></li>
-                <li rol="presentation"><a class="dropdown-toggle" href="/tin-giao-duc/" role="button" aria-expanded="false" title="TIN GIÁO DỤC">  TIN GIÁO DỤC</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/tuyen-sinh/" role="button" aria-expanded="false" title="TUYỂN SINH">  TUYỂN SINH</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/huong-nghiep/" role="button" aria-expanded="false" title="HƯỚNG NGHIỆP">  HƯỚNG NGHIỆP</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/thu-vien-nghe/" role="button" aria-expanded="false" title="THƯ VIỆN NGHỀ">  THƯ VIỆN NGHỀ</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/cong-nghe/" role="button" aria-expanded="false" title="CÔNG NGHỆ">  CÔNG NGHỆ</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/giai-tri/" role="button" aria-expanded="false" title="GIẢI TRÍ">  GIẢI TRÍ</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/goc-chia-se/" role="button" aria-expanded="false" title="GÓC CHIA SẺ">  GÓC CHIA SẺ</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/thoi-su/" role="button" aria-expanded="false" title="SỨC KHỎE">  SỨC KHỎE</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/truong-hoc/" role="button" aria-expanded="false" title="TRƯỜNG HỌC">  TRƯỜNG HỌC</a> </li>
-</ul>
-</div>
-</div>
-            </div>
-        </div>
-    </div>
-</nav>
+
           
           
           
