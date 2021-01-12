@@ -24,7 +24,6 @@
     <li rol="presentation"><a class="dropdown-toggle" href="/giai-tri/" role="button" aria-expanded="false" title="GIẢI TRÍ">  GIẢI TRÍ</a> </li>
     <li rol="presentation"><a class="dropdown-toggle" href="/goc-chia-se/" role="button" aria-expanded="false" title="GÓC CHIA SẺ">  GÓC CHIA SẺ</a> </li>
     <li rol="presentation"><a class="dropdown-toggle" href="/thoi-su/" role="button" aria-expanded="false" title="SỨC KHỎE">  SỨC KHỎE</a> </li>
-    <li rol="presentation"><a class="dropdown-toggle" href="/truong-hoc/" role="button" aria-expanded="false" title="TRƯỜNG HỌC">  TRƯỜNG HỌC</a> </li>
 </ul>
 </div>
 </div>
